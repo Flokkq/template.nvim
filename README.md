@@ -1,5 +1,5 @@
 > [!Important]
-> This is an actual template for neovim plugins. Replace all references of <T/template> with your plugins name. This template allows for seamless version and pacakge management.
+> This is an actual template for neovim plugins. Replace all references of **<T/template>** with your plugins name. This template allows for seamless version and pacakge management.
 
 ---
 
