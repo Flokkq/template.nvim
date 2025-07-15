@@ -1,5 +1,5 @@
 > [!Important]
-> This is an actual template for neovim plugins. Replace all references of **<T/template>** with your plugins name. This template allows for seamless version and pacakge management.
+> This is an actual template for neovim plugins. Replace all references of **<T/template>** and **\<your-gh-username>** with your plugins name. This template allows for seamless version and pacakge management.
 
 ---
 
@@ -26,7 +26,7 @@ Add the following configuration to use `template.nvim`.
 
 ```lua
 {
-  "flokkq/template.nvim",
+  "your-gh-username/template.nvim",
   version = "v0.1.0",
 }
 ```
@@ -35,7 +35,7 @@ Add the following configuration to use `template.nvim`.
 
 ```lua
 use {
-  "flokkq/template.nvim",
+  "your-gh-username/template.nvim",
   tag = "v0.1.0",
 }
 ```
@@ -43,6 +43,6 @@ use {
 ### Installation using [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'flokkq/template.nvim'
+Plug 'your-gh-username/template.nvim'
 ```
 
